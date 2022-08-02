@@ -1,50 +1,6 @@
 [
-      {
-        "Nama": "Adi",
-        "Sales Target": "2",
-        "Sales Actual": "1",
-        "Sales Pencapaian": "50%",
-        "Sales Actual Bobot": "50%",
-        "Report Target": "2",
-        "Report Actual": "2",
-        "Report Pencapaian": "100%",
-        "Report Actual Bobot": "50%",
-        "KPI": "75%"
-      },
-      {
-        "Nama": "Budi",
-        "Sales Target": "2",
-        "Sales Actual": "2",
-        "Sales Pencapaian": "100%",
-        "Sales Actual Bobot": "50%",
-        "Report Target": "2",
-        "Report Actual": "1",
-        "Report Pencapaian": "50%",
-        "Report Actual Bobot": "50%",
-        "KPI": "75%"
-      },
-      {
-        "Nama": "Doni",
-        "Sales Target": "1",
-        "Sales Actual": "0",
-        "Sales Pencapaian": "0%",
-        "Sales Actual Bobot": "50%",
-        "Report Target": "1",
-        "Report Actual": "1",
-        "Report Pencapaian": "100%",
-        "Report Actual Bobot": "50%",
-        "KPI": "50%"
-      },
-      {
-        "Nama": "Rara",
-        "Sales Target": "2",
-        "Sales Actual": "1",
-        "Sales Pencapaian": "50%",
-        "Sales Actual Bobot": "50%",
-        "Report Target": "1",
-        "Report Actual": "0",
-        "Report Pencapaian": "0%",
-        "Report Actual Bobot": "50%",
-        "KPI": "33%"
-      }
-    ]
+{"Nama":"Adi","Total Tasklist":"4","Tasklist Ontime":"3","Percent Ontime":"75%","Tasklist Late":"1","Percent Late":"25%"},
+{"Nama":"Budi","Total Tasklist":"4","Tasklist Ontime":"3","Percent Ontime":"75%","Tasklist Late":"1","Percent Late":"25%"},
+{"Nama":"Doni","Total Tasklist":"2","Tasklist Ontime":"1","Percent Ontime":"50%","Tasklist Late":"1","Percent Late":"50%"},
+{"Nama":"Rara","Total Tasklist":"3","Tasklist Ontime":"1","Percent Ontime":"33%","Tasklist Late":"2","Percent Late":"67%"}
+]
